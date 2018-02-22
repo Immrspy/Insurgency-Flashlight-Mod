@@ -1,5 +1,6 @@
 # Insurgency-Flashlight-Mod
-It uses default controls for Insurgency to enhance flashlight controls.
+It uses default controls for Insurgency to add some Macros.
+They will not trigger if you are not in the Insurgency window, they will if you use the Steam Overlay
 
 Right Click will toggle flashlight
 
